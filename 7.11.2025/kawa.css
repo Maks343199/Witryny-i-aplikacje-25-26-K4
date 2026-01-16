@@ -25,5 +25,5 @@ div.img{
     background-image:url(premium_photo-1675435644687-562e8042b9db.jpg);
         background-size:cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; /* Co byś zrobił? */
 }
